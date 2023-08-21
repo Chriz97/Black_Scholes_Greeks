@@ -13,7 +13,7 @@ This repository contains a Python script that calculates the price of European C
 ## Output
 The output will display:
 
- Option Price
+- Option Price
 - Delta: Sensitivity of option price to stock price change
 - Gamma: Rate of change in delta for a change in stock price
 - Theta: Sensitivity of option price to the passage of time
